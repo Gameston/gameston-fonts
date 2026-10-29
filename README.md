@@ -1,2 +1,2 @@
 # gameston-fonts
-Fonts
+Web fonts for Gameston Blogger Templates.
